@@ -109,4 +109,21 @@ curl http://localhost:3000/health
 
 ---
 
-For further usage and API documentation, see code comments in `src/routes/` and `src/controllers/`. 
+For further usage and API documentation, see code comments in `src/routes/` and `src/controllers/`.
+
+Running Images:
+
+<img width="1290" alt="Screenshot 2025-06-14 at 17 24 59" src="https://github.com/user-attachments/assets/b06cbb45-874c-42c1-ac4e-a24c59d9abb9" />
+
+
+
+<img width="1290" alt="Screenshot 2025-06-14 at 17 25 37" src="https://github.com/user-attachments/assets/11942145-9f8c-452b-afd6-ffc9a3de77e2" />
+
+
+
+<img width="1290" alt="Screenshot 2025-06-14 at 17 26 28" src="https://github.com/user-attachments/assets/440efd89-17d4-47a0-84ce-f71988324b7b" />
+
+
+
+
+
