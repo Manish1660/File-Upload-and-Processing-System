@@ -116,8 +116,9 @@ Running Images:
 <img width="1290" alt="Screenshot 2025-06-14 at 17 24 59" src="https://github.com/user-attachments/assets/b06cbb45-874c-42c1-ac4e-a24c59d9abb9" />
 
 
+<img width="1290" alt="Screenshot 2025-06-14 at 21 48 47" src="https://github.com/user-attachments/assets/41bb97a9-5566-47d9-891d-3b8cb75aad78" />
 
-<img width="1290" alt="Screenshot 2025-06-14 at 17 25 37" src="https://github.com/user-attachments/assets/11942145-9f8c-452b-afd6-ffc9a3de77e2" />
+
 
 
 
